@@ -1,0 +1,33 @@
+# Hi, I'm Yurinka 👋
+
+**Indie Developer · Sophomore at UESTC · Software & Hardware Maker**
+
+Into humanoid robots, idol anime, dance covers, and character creation<br>
+I work with code, electronics, 3D modeling, and 3D printing to explore ways of bringing characters into the real world
+
+## Tech & Tools
+
+| Area | Using / Familiar with | Learning |
+| :--- | :--- | :--- |
+| Languages | <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="36" height="36" alt="Python" title="Python" /></a> <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c&amp;theme=dark" width="36" height="36" alt="C" title="C" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" width="36" height="36" alt="C++" title="C++" /></a> <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart&amp;theme=dark" width="36" height="36" alt="Dart" title="Dart" /></a> | <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&amp;theme=dark" width="36" height="36" alt="Kotlin" title="Kotlin" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="36" height="36" alt="HTML" title="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="36" height="36" alt="CSS" title="CSS" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="36" height="36" alt="JavaScript" title="JavaScript" /></a> |
+| Embedded & Robotics | <a href="https://www.keil.com/"><img src="https://img.shields.io/badge/Keil-30363D?style=flat-square&amp;logo=armkeil&amp;logoColor=white" alt="Keil" title="Keil" /></a> <a href="https://www.st.com/en/development-tools/stm32cubemx.html"><img src="https://img.shields.io/badge/STM32CubeMX-30363D?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white" alt="STM32CubeMX" title="STM32CubeMX" /></a> <a href="https://platformio.org/"><img src="https://img.shields.io/badge/PlatformIO-30363D?style=flat-square&amp;logo=platformio&amp;logoColor=white" alt="PlatformIO" title="PlatformIO" /></a> <a href="https://lceda.cn/"><img src="https://img.shields.io/badge/EasyEDA-30363D?style=flat-square&amp;logo=easyeda&amp;logoColor=white" alt="EasyEDA" title="EasyEDA" /></a> | <a href="https://docs.ros.org/en/rolling/"><img src="https://skillicons.dev/icons?i=ros&amp;theme=dark" width="36" height="36" alt="ROS 2" title="ROS 2" /></a> |
+| Computer Vision & AI | <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&amp;theme=dark" width="36" height="36" alt="OpenCV" title="OpenCV" /></a> | <a href="https://docs.ultralytics.com/"><img src="https://img.shields.io/badge/YOLO-30363D?style=flat-square&amp;logo=yolo&amp;logoColor=white" alt="YOLO" title="YOLO" /></a> <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&amp;theme=dark" width="36" height="36" alt="PyTorch" title="PyTorch" /></a> |
+| App Development | — | <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&amp;theme=dark" width="36" height="36" alt="Flutter" title="Flutter" /></a> <a href="https://kotlinlang.org/multiplatform/"><img src="https://img.shields.io/badge/Kotlin%20Multiplatform-30363D?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin Multiplatform" title="Kotlin Multiplatform" /></a> |
+| Modeling & Fabrication | <a href="https://www.solidworks.com/"><img src="https://img.shields.io/badge/SolidWorks-30363D?style=flat-square&amp;logo=dassaultsystemes&amp;logoColor=white" alt="SolidWorks" title="SolidWorks" /></a> <a href="https://bambulab.com/en/download/studio"><img src="https://img.shields.io/badge/Bambu%20Studio-30363D?style=flat-square&amp;logo=bambulab&amp;logoColor=white" alt="Bambu Studio" title="Bambu Studio" /></a> | <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender&amp;theme=dark" width="36" height="36" alt="Blender" title="Blender" /></a> |
+| Visual Creation | <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&amp;theme=dark" width="36" height="36" alt="Photoshop" title="Photoshop" /></a> <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://skillicons.dev/icons?i=ae&amp;theme=dark" width="36" height="36" alt="After Effects" title="After Effects" /></a> <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr&amp;theme=dark" width="36" height="36" alt="Premiere Pro" title="Premiere Pro" /></a> <a href="https://www.dji.com/downloads/djiapp/dji-fly"><img src="https://img.shields.io/badge/DJI%20Fly-30363D?style=flat-square&amp;logo=dji&amp;logoColor=white" alt="DJI Fly" title="DJI Fly" /></a> | <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai&amp;theme=dark" width="36" height="36" alt="Illustrator" title="Illustrator" /></a> |
+| Development Tools | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="36" height="36" alt="VS Code" title="VS Code" /></a> <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="36" height="36" alt="Git" title="Git" /></a> | — |
+
+## Projects
+
+- **潮汐Project** — A long-term exploration of humanoid robot idols, aiming to build an embodied avatar of myself and AI characters with their own personalities and memories
+- **[Susume](https://susume.yurinka.top)** — An open-source video player for learning choreography and practicing dance, with segment looping, beat cues, and on-screen annotations
+- **[RinaChanBoard](https://github.com/tideYurinka/RinaChanBoard)** — A recreation of Rina Tennoji’s electronic Rina-chan Board from *Love Live! 虹ヶ咲学園スクールアイドル同好会*, with switchable expressions and comfortable fit.
+
+## GitHub Stats
+
+[![Yurinka's GitHub Stats](https://github-stats-extended.vercel.app/api?username=tideYurinka&show_icons=true&include_all_commits=true&theme=dark_github)](https://github.com/tideYurinka)
+
+## Find Me
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/1922939099)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/68bfe39700000000050029c1)
