@@ -1,6 +1,6 @@
 # Hi, I'm Yurinka 👋
 
-**Indie Developer · Sophomore at UESTC · Software & Hardware Maker**
+**Indie Developer · Software & Hardware Maker · Sophomore at UESTC **
 
 Into humanoid robots, idol anime, dance covers, and character creation<br>
 I work with code, electronics, 3D modeling, and 3D printing to explore ways of bringing characters into the real world
