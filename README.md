@@ -23,9 +23,11 @@ I work with code, electronics, 3D modeling, and 3D printing to explore ways of b
 - **[Susume](https://susume.yurinka.top)** — An open-source video player for learning choreography and practicing dance, with segment looping, beat cues, and on-screen annotations
 - **[RinaChanBoard](https://github.com/tideYurinka/RinaChanBoard)** — A recreation of Rina Tennoji’s electronic Rina-chan Board from *Love Live! 虹ヶ咲学園スクールアイドル同好会*, with switchable expressions and comfortable fit.
 
-## GitHub Stats
+## Stats
 
 [![Yurinka's GitHub Stats](https://github-stats-extended.vercel.app/api?username=tideYurinka&show_icons=true&include_all_commits=true&theme=dark_github)](https://github.com/tideYurinka)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tideYurinka&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
 
 ## Find Me
 
